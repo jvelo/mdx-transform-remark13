@@ -1,0 +1,11 @@
+{
+  "name": "mdx-transform-remark13",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "remark": "^12.0.0",
+    "remark-mdx": "^1.6.22",
+    "to-vfile": "^6.1.0"
+  }
+}
